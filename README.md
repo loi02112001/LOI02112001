@@ -10,8 +10,3 @@
     </div>
 </div>
 
-------
-
-Credit: [Ahmed Fathy](https://github.com/AhmedFathyDev)
-
-Last edited on: 31/01/2022
